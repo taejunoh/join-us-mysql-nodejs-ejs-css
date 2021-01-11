@@ -12,7 +12,7 @@ Created a tested "Join Us" page before launching "Lifter for Lifter" web applica
 
 
 
-## SAMPLE IMAGE
+## SCREENSHOT
 
 ![cluster_iamge](assets/screenshot.png)
 
